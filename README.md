@@ -6,4 +6,9 @@
 
 ###### Se décrire en une phrase ? : Non.
 
-
+|   |  |
+|---------------- | ----- |
+| Birthday | 10/04 |
+| Favorite Color | Black |
+| Favorite food | Burgers |
+| Ananas on pizza | : x :|
