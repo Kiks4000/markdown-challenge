@@ -40,4 +40,4 @@ In fact that's a sad story : One time when i was working as a bartender i met Je
 ---
 
 
-[<<](https://github.com/Palacios97) || RICHARD Kevin || [>>](https://github.com/VOOSsebastien/markdown-challenge/blob/main/README.md)
+[<<](https://github.com/Palacios97/markdown-challenge/blob/main/README.md) || RICHARD Kevin || [>>](https://github.com/VOOSsebastien/markdown-challenge/blob/main/README.md)
