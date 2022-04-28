@@ -34,7 +34,7 @@
 ---
 
 #### My funny story :
-In fact that's a sad story : One time when i was working as a bartender i net Jean-Marie Bigard. I said him i was funny so i told him a joke and.... he didn't laugh. 
+In fact that's a sad story : One time when i was working as a bartender i met Jean-Marie Bigard. I said him i was funny so i told him a joke and.... he didn't laugh. 
 ###### Fun is relative.
 
 ---
