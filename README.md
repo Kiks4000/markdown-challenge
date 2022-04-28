@@ -11,4 +11,4 @@
 | Birthday | 10/04 |
 | Favorite Color | Black |
 | Favorite food | Burgers |
-| Ananas on pizza | ✖ |
+| Ananas on pizza | ✅ No<br/> 🔲 Yes |
